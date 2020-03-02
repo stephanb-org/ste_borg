@@ -1,0 +1,229 @@
+--- 
+--- 
+@import "jekyll-theme-minimal";
+/* Headers*/
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.17em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h5 {
+    font-size: 0.83em;
+}
+
+h6 {
+    font-size: 0.67em;
+}
+
+/* Cards */
+
+
+.card-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.card-product-list {
+    margin-bottom: 20px;
+}
+
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.37rem;
+}
+
+
+/* CONTACT FORM */
+/* Add styles to 'label' selector */
+label {
+    font-size: 0.85em;
+    margin-left: 12px;
+}
+
+/* Add styles to 'input' and 'textarea' selectors */
+input[type=text],input[type=email], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+/* Add styles to show 'focus' of selector */
+input[type=text]:focus,input[type=email]:focus, textarea:focus {
+    border: 1px solid green;
+}
+
+/* Add styles to the submit button */
+input[type=submit] {
+    background: #64B5F6;
+    margin: 0 auto;
+    outline: 0;
+    color: white;
+    border: 0;
+    padding: 12px 24px;
+    border-radius: 4px;
+    transition: all ease-in-out 0.1s;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Add styles for 'focus' property */
+input[type=submit]:focus {
+    background: #A5D6A7;
+    color: whitesmoke;
+}
+
+/* Style 'hover' property */
+input[type=submit]:hover {
+    background: #2196F3;
+}
+
+/* POSTS UL */
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 1.5em;
+  padding-left: 0;
+}
+
+  ul.posts li {
+    line-height: 1.75em;
+  }
+
+  ul.posts span {
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+  }
+
+.tags {
+    display: inline-block;
+    color: #828282;
+    font-size: 1em;
+    font-weight: 300;
+    list-style: none;
+    border: 1px solid #828282;
+    margin-right: .3rem;
+    padding: 0.2em 0.5em;
+    border-radius: 0.4em;
+}
+
+ul.tag-group {
+    margin-bottom: 1rem;
+    padding-left: 0;
+    }
+
+    li.tags {
+    margin-bottom: .7rem;
+    }
+
+#SiteNavigation {
+	text-align: left;
+	font-size: 106%;
+	line-height: 2.0rem;
+	border-bottom: 1px dashed #BDB8AD; /*col:Divider Dark*/
+	padding-bottom: 20px;
+	margin-bottom: 5px;
+}
+
+	#SiteNavigation a {
+		white-space: nowrap; /* Keep the 'buttons' intact when the window narrows. */
+		margin-right: 1rem;
+		text-decoration: none;
+		padding: 3px 6px 3px 6px;
+		border: 1px dotted rgb(187,187,187); /*col:Divider Light*/
+	}
+
+		#SiteNavigation a:hover, #SiteNavigation a:active {
+			background-color: rgb(238,238,238); /*col:Navbutton Hover BG*/
+		}
+
+		#SiteNavigation a:visited {
+			color: #990000; /*col:LinkActive*/
+		}
+
+		#SiteNavigation a i {
+			vertical-align: text-top;
+			margin-top: 1px; /* More accurate vertical alignment for the icon. */
+			margin-right: 6px;
+		}
+
+#SiteNavigation a {
+	color: #000;
+}
+
+
+.cover {
+    float: left;
+    width: 150px;
+    padding: 0 1.5rem 1rem 0
+}
+
+.book-list {
+    margin-top: 2em;
+    margin-left: 0;
+    list-style-type: none;
+    display: block
+}
+
+.book-item {
+    display: table;
+    width: 100%;
+    margin-bottom: 2rem;
+    clear: left
+}
+
+.book-title {
+    font-family: "Merriweather", serif;
+    font-style: italic;
+    text-decoration: none;
+    color: #0077b3
+}
+
+.book-title:visited {
+    color: #424242
+}
+
+.book-title:hover {
+    color: #0099e6
+}
+
+.book-author {
+    color: #424242;
+    font-size: 0.8em;
+    margin-top: -8px;
+    margin-bottom: 0.8em;
+    line-height: 1.3
+}

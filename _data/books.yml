@@ -1,0 +1,24 @@
+list:
+
+  - year: 2020
+    books:
+      
+      - title: "REWORK"
+        author: Cathy O’Neil
+        link: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391275636l/6732019.jpg
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391275636l/6732019.jpg
+        description: "“O’Neil’s book offers a frightening look at how algorithms are increasingly regulating people...Her knowledge of the power and risks of mathematical models, coupled with a gift for analogy, makes her one of the most valuable observers of the continuing weaponization of big data… [She] does a masterly job explaining the pervasiveness and risks of the algorithms that regulate our lives.” —New York Times Book Review"
+        genre: [politics, business]
+        completed: 2020-01-05
+
+  - year: 2019
+    books:
+
+      - title: "Purple Cow"
+        author: Ronan Farrow
+        link: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203098l/641604.jpg
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203098l/641604.jpg
+        description: "“He didn’t let it go, though there were plenty of people who tried to pry him loose. In addition to the ‘all white, all male’ chain of command at NBC, there was Weinstein himself, waging a war on all fronts.” - Jennifer Szalai, New York Times"
+        genre: [politics, society]
+        completed: 2019-11-02
+        format: audiobook

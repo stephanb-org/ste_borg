@@ -1,0 +1,63 @@
+---
+layout: default
+title: Reading
+permalink: books
+---
+<h1>{{ page.title }}</h1>
+<p>I started this reading list at the beginning of 2019. It includes books I've started or completed since the beginning of that year.</p>
+<p>I prefer to read analog books, but I increasingly listen to audiobooks. Audiobooks are marked with 🎧.</p>
+<!--Anchor nav for years, but only if more than one exists-->
+{% assign bookYears = site.data.books.list | size %}
+{% if bookYears > 1 %}
+<ul class="tag-group">
+    {% for entry in site.data.books.list %}
+    <a href="#{{entry.year}}-books">
+        <li class="tags">{{ entry.year }}</li>
+    </a>
+    {% endfor %}
+</ul>
+{% endif %}
+<!--Subheadings for each year and number of books for that year-->
+{% for entry in site.data.books.list %}
+<div>
+    <div class="line-header">
+        {% assign bookSize = entry.books | size %}
+        {% if bookSize == 1 %}
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">{{ bookSize }} book</span>
+        {% elsif bookSize > 1 %}
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">{{ bookSize }} books</span>
+        {% else %}
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">I haven't read any books this year. So far.</span>
+        {% endif %}
+    </div>
+    <div>
+        <!--Books for each year-->
+        <div class="row">
+            {% for book in entry.books %}
+                <div class="book-item col-sm-4 pt-3">
+                    <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
+                </div>
+                <div class="book-info col-sm-7 pt-3">
+                    <h3><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h3>
+                    <p class="book-author">{{ book.author }}</p>
+                    <p>{{ book.description | smartify }}</p>
+                    <p class="post-meta">
+                        {% if book.completed == 'In progress' %}
+                        <span>Status: </span><span style="color: #EB002B">📖 {{ book.completed }}</span>
+                        {% elsif book.completed == 'Abandoned' %}
+                        <span>Status: </span><span style="color: #EB002B">{{ book.completed }} ¯\_(ツ)_/¯ </span>
+                        {% elsif book.completed == 'Next' %}
+                        <span>Status: </span><span style="color: #026431">📚 Next up</span>
+                        {% else %}
+                        <span>Date completed: </span>{{ book.completed | date: "%B %-d, %Y" }}
+                        {% endif %}
+                        {% if book.format == 'audiobook' %}
+                        <span> 🎧</span>
+                        {% endif %}
+                    </p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endfor %}

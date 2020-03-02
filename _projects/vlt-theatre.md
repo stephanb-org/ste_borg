@@ -1,0 +1,30 @@
+---
+layout: post
+title: Valletta Theatre
+location: Wied iz-Zurrieq, Valletta
+year: 2015
+status: Concept
+author: Stephan Borg
+tags: Valletta theatre concept
+---
+
+**project:** {{ page.title }}<br>
+**location:** {{ page.location }}<br>
+**year:** {{ page.year }}<br>
+**status:** {{ page.status }}<br>
+
+![coming-soon](/assets/img/coming-soon.png)
+
+<span class="text-danger">Well, this page is still in progress. We are putting the blocks together.</span>
+
+
+<!--Page as published. [Image]
+
+
+### Project
+
+### Site Analysis
+
+Views
+
+Most Photographed area - examples;-->

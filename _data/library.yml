@@ -1,0 +1,263 @@
+list:
+
+  - year: 2020
+    books:
+
+      - title: Matrix Methods Of Structural Analysis
+        author: R. K. Livesley
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-01-27
+        loaned: 2020-01-13
+        library-location: TA642 .L5
+
+      - title: Tower and Office; From Modernist Theory to Contemporary Practice
+        author: Iñaki Ábalos, Juan Herreros
+        link: /
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347637394l/1388937.jpg
+        description: "Referenced for design of a high-rise building"
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0262511902
+        ISBN-10: 9780262511902
+        returned: 2020-01-20
+        loaned: 2019-11-07
+        library-location: NA6232 .A33
+
+      - title: Tall buildings ; a strategic design guide / contributing firms, Arup ... [et al.] ; edited by Ziona Strelitz.
+        author: Strelitz, Ziona,
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-01-13
+        loaned: 2020-01-13
+        library-location: NA6230 .T3
+
+      - title: Tall buildings / preface by Terence Riley ; essay by Guy Nordenson.
+        author: Riley, Terence,
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-01-13
+        loaned: 2020-01-13
+        library-location: NA6230 .T35
+
+      - title: Johnson Wax Administration Building and Research Tower / [architect] Frank Lloyd Wright ; [text by] Brian Carter.
+        author: Carter, Brian
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-01-13
+        loaned: 2020-01-13
+        library-location: NA737.W7 C37
+
+      - title: Matrix structural analysis 
+        author: J.L. Meek.
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-01-27
+        loaned: 2020-01-13
+        library-location: TA642 .B72
+
+      - title: Prestressed concrete design.
+        author: Hurst, M.K.
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-02-18
+        loaned: 2020-01-13
+        library-location: TA683.9 .H87 1998
+
+      - title: ACI-fib International Symposium on Punching shear of structural concrete slabs 2016 ; honoring Neil M. Hawkins ; Philadelphia, Pennsylvania, USA, 25 October 2016 / edited by Carlos E. Ospina, Denis Mitchell and Aurelio Muttoni
+        author: Ospina, Carlos E.,
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-02-18
+        loaned: 2020-01-13
+        library-location: TA683.5.S6 A255
+
+      - title: Reinforced concrete design / Chu-Kia Wang, Charles G. Salmon, José A. Pincheira.
+        author: Wang, Chu-Kia,
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-02-18
+        loaned: 2020-01-13
+        library-location: TA683.2 .W3 2007
+
+      - title: Ultimate limit-state design of concrete structures ; a new approach / M.D. Kotsovos and M.N. Pavlovic.
+        author: Kotsovos, M. D.
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-02-18
+        loaned: 2020-01-13
+        library-location: TA683.2 .K68      
+
+      - title: Structural engineering for architects ; a handbook 
+        author: Pete Silver, Will McLean, Peter Evans.
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-02-18
+        loaned: 2020-01-13
+        library-location: TA633 .S589
+
+      - title: Designers' guide to EN 1992-1-1 and EN 1992-1-2 Eurocode 2 ; design of concrete structures ; general rules and rules for buildings and structural fire design
+        author:  A.W. Beeby and R.S. Narayanan
+        link: /
+        image: https://imgv2-1-f.scribdassets.com/img/word_document/282578636/original/ac89a0b622/1580918463?v=1
+        description: "No description yet."
+        genre: [strucutral analysis]
+        subject: N/A
+        ISBN-13: 978-0080188881
+        ISBN-10: 0080188885
+        returned: 2020-02-18
+        loaned: 2020-01-13
+        library-location: TA682.25 .B44
+
+  - year: 2019
+    books:
+      
+      - title: Architectural Drawing
+        author: Yee, Rendow
+        link: https://www.patagonia.com/product/some-stories-lessons-from-the-edge-of-business-and-sport-by-yvon-chouinard-hardcover-book-published-by-patagonia/BK805.html
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348036428l/1870613.jpg
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: 978-1118012871
+        ISBN-10: 9781118012871 
+        returned: 2017-12-28
+        loaned: 2016-10-20
+        library-location: Main Library General NA2708 .Y439
+
+  - year: 2018
+    books:
+      
+      - title: Architectural Drawing
+        author: Yee, Rendow
+        link: https://www.patagonia.com/product/some-stories-lessons-from-the-edge-of-business-and-sport-by-yvon-chouinard-hardcover-book-published-by-patagonia/BK805.html
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348036428l/1870613.jpg
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: 978-1118012871
+        ISBN-10: 9781118012871 
+        returned: 2017-12-28
+        loaned: 2016-10-20
+        library-location: Main Library General NA2708 .Y439
+
+  - year: 2017
+    books:
+      
+      - title: Freehand figure drawing for illustrators
+        author: Ross, David H.
+        link: /
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444667397l/24848327.jpg
+        description: "No description yet."
+        genre: [drawing, free-hand]
+        subject: N/A
+        ISBN-10: 0385346239
+        ISBN-13: 978-0385346238
+        returned: 2017-10-23
+        loaned: 2017-06-13
+        library-location: NC765 .R67
+
+      - title: Mechanics of Materials
+        author: Howard P. Popov
+        link: /
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172236751l/151776.jpg
+        description: "No description yet."
+        genre: [materials, mechanics]
+        subject: N/A
+        ISBN-13: 978-0135713563
+        ISBN-10: 0135713560
+        returned: 2017-10-23
+        loaned: 2017-05-03
+        library-location: TA405 .P665 1978
+
+      - title: Drawing the landscape
+        author: Sullivan, Chip
+        link: /
+        image: https://images-na.ssl-images-amazon.com/images/I/51FiTGVAeUL._SX387_BO1,204,203,200_.jpg
+        description: "No description yet."
+        genre: [drawing, landscape]
+        subject: N/A
+        ISBN-13: 978-1118454817
+        ISBN-10: 1118454812
+        returned: 2017-10-23
+        loaned: 2017-06-13
+        library-location: NC795 .S95 1997
+
+      - title: In Detail, Small Structures; Compact Dwellings, Temporary Structures, Room Modules
+        author: Christian Schittich (Editor)
+        link: /
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381294999l/14670300.jpg
+        description: "No description yet."
+        genre: [small,  structures]
+        subject: N/A
+        ISBN-13: 978-3034602839
+        ISBN-10: 3034602839
+        returned: 2017-10-23
+        loaned: 2017-04-05
+        library-location: NA7533 .S54
+
+  - year: 2016
+    books:
+      
+      - title: Architectural Drawing
+        author: Yee, Rendow
+        link: /
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348036428l/1870613.jpg
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: 978-1118012871
+        ISBN-10: 9781118012871 
+        returned: 2017-12-28
+        loaned: 2016-10-20
+        library-location: NA2708 .Y439 2007

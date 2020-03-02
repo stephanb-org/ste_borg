@@ -1,0 +1,16 @@
+---
+layout: default
+title: Collections
+permalink: /collections
+---
+
+{% assign sorted = site.collections | sort: 'year' | reverse %}
+<h1>{{ page.title }}</h1>
+
+Collections are a number of works that do not fall within the compilation of architectural design works displayed under the link 'projects'. Hereunder, is a curated list of works that I am particularly satisfied with that demonstrate a specific skillset in the medium of art and design.
+
+  <ul class="posts" style="padding-top: 20px;">
+    {% for collection in sorted %}
+      <li><span>{{ collection.year }}</span> &raquo; <a href="{{ collection.url }}">{{ collection.title }}</a></li>
+    {% endfor %}
+  </ul>

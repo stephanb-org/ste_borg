@@ -1,0 +1,54 @@
+---
+layout: default
+title: Library Books
+---
+<h1>{{ page.title }}</h1>
+<p>The library platform HyDi for University of Malta works well, but is not great. Thus, I decided to publish the list of borrowed books on my website. I have used data available from HyDi to compile the first version.</p>
+<p>Most of these books were used as a reference, either for a subject course or design project I have been working on. If they are on the list, it means they have been borrowed and either read fully or partially.</p>
+<p>I often find myself looking for the same book I have borrowed. The university website, does not show images and it is not the first time I have to click on every book title, until I find the one I was looking for - and here I included the shelf book location!</p>
+<p>Also, I find it interesting to see the amount of books I have borrowed by year.</p>
+<!--Anchor nav for years, but only if more than one exists-->
+{% assign bookYears = site.data.library.list | size %}
+{% if bookYears > 1 %}
+<ul class="tag-group">
+    {% for entry in site.data.library.list %}
+    <a href="#{{entry.year}}-books">
+        <li class="tags">{{ entry.year }}</li>
+    </a>
+    {% endfor %}
+</ul>
+{% endif %}
+<!--Subheadings for each year and number of books for that year-->
+{% for entry in site.data.library.list %}
+<div>
+    <div class="line-header">
+        {% assign bookSize = entry.books | size %}
+        {% if bookSize == 1 %}
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">{{ bookSize }} book</span>
+        {% elsif bookSize > 1 %}
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">{{ bookSize }} books</span>
+        {% else %}
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">I haven't read any books this year. So far.</span>
+        {% endif %}
+    </div>
+    <div>
+        <!--Books for each year-->
+        <div class="row">
+            {% for book in entry.books %}
+            <div class="book-item col-sm-4 pt-3">
+                <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
+            </div>
+            <div class="book-info col-sm-7 pt-3">
+                <h3><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h3>
+                <p class="book-author">{{ book.author }}</p>
+                <p>{{ book.description | smartify }}</p>
+                <p class="post-meta">
+                    <span> <b>{{ book.library-location }}</b></span><br />
+                    <span> Loaned from <b>{{ book.loaned}}</b> till <b>{{ book.returned }}</b></span>
+                </p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endfor %}

@@ -1,0 +1,15 @@
+---
+layout: default
+title: Projects
+permalink: /projects
+---
+{% assign sorted = site.projects | sort: 'year' | reverse %}
+<h1>{{ page.title }}</h1>
+
+Showing all works, the most recent first. Here is a curated list of architectural design works, either in progress, conceptual or finalised stage.
+
+  <ul class="posts" style="padding-top: 20px;">
+    {% for project in sorted %}
+      <li><span>{{ project.year }}</span> &raquo; <a href="{{ project.url }}">{{ project.title }}</a>, {{ project.location }}</li>
+    {% endfor %}
+  </ul>
