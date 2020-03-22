@@ -13,6 +13,10 @@ tags: concept
 **year:** {{ page.year }}<br>
 **status:** {{ page.status }}<br>
 
+<div class="alert alert-warning" role="alert">
+  Work in progress.
+</div>
+
 Ellipsoidal pods try to break the rules from lifeless obstructing structures and concrete planes at Wied iz-Zurrieq. Soft rounded concrete surfaces eliminate the deflection of
 sunlight due to the absence of corners within the structure.
 

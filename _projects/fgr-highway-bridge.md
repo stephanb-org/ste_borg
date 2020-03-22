@@ -13,6 +13,16 @@ tags: WIP
 **year:** {{ page.year }}<br>
 **status:** {{ page.status }}<br>
 
+<div class="alert alert-warning" role="alert">
+  Work in progress. Some details may be incomplete.
+</div>
+
+### Per Tviet
+
+Works of per tviet. He has a number of publications on his website here.
+
+### Arch Bridges
+
 ### Lanes
 
 Current status, StreetMix
@@ -21,12 +31,15 @@ Proposed Option 1, StreetMix
 
 Proposed Option 2, StreetMix
 
+### Traffic Map
+
+[ Images - traffic maps ]
+
+Traffic map
 
 ### Historical Modelling
 
 Images of 3D model / walkthrough (results)
-
-Interested in tutorial? Email email@stephanb.org.
 
 ### Site Analysis and Data Aggregate
 
@@ -38,6 +51,5 @@ Site Map 1932
 
 Site Map 2007
 
-Views
+From the sitemaps
 
-Traffic map
