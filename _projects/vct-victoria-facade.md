@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Victoria Facade
-location: Wied iz-Zurrieq, Sliema
+location: Victoria, Gozo
 year: 2019
 status: Survey
 author: Stephan Borg

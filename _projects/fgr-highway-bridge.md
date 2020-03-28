@@ -16,7 +16,7 @@ tags: WIP
 <div class="alert alert-warning" role="alert">
   Work in progress. Some details may be incomplete.
 </div>
-
+<!--
 ### Per Tviet
 
 Works of per tviet. He has a number of publications on his website here.
@@ -52,4 +52,4 @@ Site Map 1932
 Site Map 2007
 
 From the sitemaps
-
+-->

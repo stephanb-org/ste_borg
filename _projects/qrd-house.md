@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Qrendi House
-location: Wied iz-Zurrieq, Qrendi
+location: Qrendi
 year: 2015
 status: Concept
 author: Stephan Borg

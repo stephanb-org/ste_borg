@@ -7,13 +7,11 @@ title: Home
 
 > Hello, friend? That's lame. Maybe I should give you a name.
 
+You have discovered the Stephan Borg's web page. Updates frequency is incosistent and, content topics are broad. Here is what I have been up to:
+
 <div class="alert alert-warning" role="alert">
   Work in progress.
 </div>
-
-You have discovered the Stephan Borg's web page. Description provided at the end of the menu. 
-
-Updates frequency is incosistent and, content topics are broad. Here is what I have been up to:
 
   <ul class="posts">
     {% for post in site.posts %}
@@ -28,6 +26,6 @@ Here is a **road map** of what I am brewing:
 * Donate
 * Subcribe for Newsletter
 
-Last updated: 2020-03-22
+Last updated: 2020-03-28
 
  _*Mr.Robot Intro_

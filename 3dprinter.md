@@ -9,9 +9,11 @@ title: 3D Printer
 ![prusa-sketch](/assets/img/pages/prusa-sketch.jpg)
 <small>Credits: <a href="https://petalica-paint.pixiv.dev/index_en.html">Petalica Paint</a></small>
 
-## What is Prusa?
+
+<!--## What is Prusa?
 
 ## Why Prusa?
+
 I also had some experience using the machine, while building Malta International Airport Model.
 
 ## The assembly:
@@ -25,7 +27,7 @@ I do not have photographs for the last steps, which included the assembly of ele
 
 After assembly, it only needed a calibration and started printing immediately.
 
-Should you purchase one, I suggest that the first thing you'll print is parts for the printer itself. Some things may break (very unlikely to damage, but still good to have some extra parts). Attention: printing the extruder parts you will need PETG-BLACK and ideally from PRUSAMENT. I read this quite at a late stage, and I had already started printing my parts in PETG-GRAY. I selected the PETG-GRAY as I would keep a record for the parts that have been replaced, if any.
+Should you purchase one, I suggest that the first thing you'll print is parts for the printer itself. Some things may break (very unlikely to damage, but still good to have some extra parts). Attention: printing the extruder parts you will need PETG-BLACK and ideally from PRUSAMENT. I read this quite at a late stage, and I had already started printing my parts in PETG-GRAY. I selected the PETG-GRAY as I would keep a record for the parts that have been replaced, if any.-->
 
 Here is a list of prints, and their allotted time.
 

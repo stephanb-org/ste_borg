@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High Rise
-location: Wied iz-Zurrieq, Sliema
+location: Sliema
 year: 2019
 status: Concept
 author: Stephan Borg

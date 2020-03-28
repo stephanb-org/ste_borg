@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flexible Canopy
-location: Wied iz-Zurrieq, Marsa
+location: Marsa
 year: 2015
 status: Concept
 author: Stephan Borg

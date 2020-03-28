@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Valletta Theatre
-location: Wied iz-Zurrieq, Valletta
+title: Optico Theatre
+location: Valletta
 year: 2015
 status: Concept
 author: Stephan Borg
