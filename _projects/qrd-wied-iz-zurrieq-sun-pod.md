@@ -24,3 +24,4 @@ A large public amphitheatre invites groups of people to socialize and enjoy meal
 
 The interior of the pod reciprocates the feeling of being outside by mimicking rock formations found on shore with the use of sinusoidal cross-sectional foam flooring. Front
 UV-filtered windows are opened by a crank rotating in the direction of the sun path allowing the user to control both the shade and sunshine intensity. The volumes complement the elements of rocky shores, sea and sun with a light and bright tone materials that give an appetite to visitors for salty meals and cold lemonades.
+
