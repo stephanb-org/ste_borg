@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
  ![Me](/assets/img/home.jpg)
 
 I am a Maltese structural engineering student living in Malta. I currently pursue an M.Eng in Structural Engineering at the University of Malta.
