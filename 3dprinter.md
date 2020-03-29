@@ -9,7 +9,6 @@ title: 3D Printer
 ![prusa-sketch](/assets/img/pages/prusa-sketch.jpg)
 <small>Credits: <a href="https://petalica-paint.pixiv.dev/index_en.html">Petalica Paint</a></small>
 
-
 <!--## What is Prusa?
 
 ## Why Prusa?

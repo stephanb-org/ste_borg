@@ -162,18 +162,187 @@ list:
   - year: 2019
     books:
       
-      - title: NOT UPDATED
-        author: NOT UPDATED
-        link: /
+      - title: Steel Construction Manual 
+        author:  Helmut C. Schulitz, Werner Sobek, Karl J. Habermann
+        link: https://amzn.to/2UI3vO8
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3764361816&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-02-02
+        loaned: N/A
+        library-location: TA684 .S352
+
+      - title: Designers' guide to EN 1992-1-1 and EN 1992-1-2 Eurocode 2 ; design of concrete structures ; general rules and rules for buildings and structural fire design
+        author: A.W. Beeby and R.S. Narayanan
+        link: https://amzn.to/33Vz372
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=072773105X&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-09-23
+        loaned: N/A
+        library-location: TA682.25 .B44
+
+      - title: Solving Problems in Soil Mechanics 
+        author: Sutton, B.H.C.
+        link: https://amzn.to/2QU1JIG
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0582089719&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-02-06
+        loaned: N/A
+        library-location: TA710 .S9 1993
+
+      - title: Don't Make Me Think - A Common Sense Approach to Web Usability (Voices That Matter)
+        author: Krug, Steve
+        link: https://amzn.to/3atm4vU
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321965515&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-09-30
+        loaned: N/A
+        library-location: TK5105.888 .K78 2006
+
+      - title: Soft Shells - Design and Technology of Tensile Architecture
+        author: Schock, Hans-Joachim
+        link: https://amzn.to/2WPyZUX
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=376435450X&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-02-02
+        loaned: N/A
+        library-location: TA660.S5 S36
+
+      - title: New tent architecture
+        author: Drew, Philip
+        link: https://amzn.to/3aDySQJ
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0500342431&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-02-02
+        loaned: N/A
+        library-location: NA4160 .D74
+
+      - title: Tensile architecture
+        author: Drew, Philip
+        link: https://amzn.to/3apXVGM
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=025897012X&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-02-02
+        loaned: N/A
+        library-location: NA4145.L5 D7
+
+      - title: Structural steelwork for students
+        author: Leech, L.V.
+        link: https://amzn.to/39rXOsE
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0408703423&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-02-18
+        loaned: N/A
+        library-location: TA684 .L37
+
+      - title: Examples in Structural Analysis
+        author: McKenzie, W.M.C.
+        link: https://amzn.to/2xtLlrt
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0415370531&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-09-23
+        loaned: N/A
+        library-location: TA645 .M3554
+
+      - title: Steel Structures - Practical Design Studies 
+        author: Hassan K. Al Nageim, T. J. MacGinley
+        link: https://amzn.to/2vX8fqJ
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0415301564&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-09-23
+        loaned: N/A
+        library-location: TA684 .A45 2005
+
+      - title: Reinforced and prestressed concrete
+        author: F.K. Kong and R.H. Evans.
+        link: https://amzn.to/2UsC8s8
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0177610409&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-09-30
+        loaned: N/A
+        library-location: TA683.2 .K598 2001
+
+      - title: Architectural common sense ; sun, site and self.
+        author: Dike, Rad
+        link: https://amzn.to/2JjVwS2
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0442213646&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-09-30
+        loaned: N/A
+        library-location: NA2750 .D554
+
+      - title: Evaluating the valuer ; property valuations in Malta and the role of the Perit
+        author: Mizzi, Justin
+        link: https://hydi.um.edu.mt/permalink/f/4lvtl7/356MALT_alma2126941660003956
         image: /assets/img/book.jfif
         description: "No description yet."
         genre: [architecture, drawing]
         subject: N/A
         ISBN-13: N/A
         ISBN-10: N/A
-        returned: N/A
+        returned: 2019-06-03
+        loaned: 2019-06-03
+        library-location: Melitensia Special Collection Dissertations 
+
+      - title: The Reasoning Architect; Mathematics and Science in Design
+        author: Stevens, Garry
+        link: https://amzn.to/2xtLTh1
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0070613915&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: [architecture, drawing]
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2019-01-07
         loaned: N/A
-        library-location: N/A
+        library-location: NA2750 .S83       
 
   - year: 2018
     books:
@@ -295,18 +464,226 @@ list:
         loaned: N/A
         library-location: NA2560 .S55  
 
-      - title: NOT UPDATED
-        author: NOT UPDATED
-        link: /
+      - title: Architecture in the Digital Age; Design and Manufacturing
+        author: Kolarevic, Branko
+        link: https://amzn.to/2QRIRd4
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=041538141X&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-12-05
+        loaned: N/A
+        library-location: NA2543.T43 A724  
+
+      - title: Towards a new architecture
+        author: Le Corbusier
+        link: https://amzn.to/3aDQnju
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1614276056&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-11-27
+        loaned: N/A
+        library-location: NA2500 .L4  
+
+      - title: Bauhaus 
+        author: Jeannine Fiedler, Peter Feierabend
+        link: https://amzn.to/2UqSnpT
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3848002760&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-12-05
+        loaned: N/A
+        library-location: N332.G33 B32   
+
+      - title: Concrete - Microstructure, Properties and Materials 
+        author: P. Kumar Mehta, Paulo J.M. Monteiro
+        link: https://amzn.to/2yihNNQ
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0071462899&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-01-15
+        loaned: N/A
+        library-location: TA439 .M364 1993
+
+      - title: Elements of Soil Mechanics for Civil and Mining Engineers 
+        author: G.N. Smith, Ian G.N. Smith
+        link: https://amzn.to/2Us1NBC
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0258969482&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-02-01
+        loaned: N/A
+        library-location: TA710 .S6 1998  
+
+      - title: Solving Problems in Soil Mechanics
+        author: Sutton, B.H.C.
+        link: https://amzn.to/2JnONGG
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0582089719&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-02-01
+        loaned: N/A
+        library-location: TA710 .S9 1993   
+
+      - title: Modern Construction Management
+        author: Harris, Frank
+        link: https://amzn.to/33SzbEB
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=047067217X&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-01-23
+        loaned: N/A
+        library-location: HD9715.A2 H27 2006   
+
+      - title: Construction Management - Principles and Practice
+        author: Griffith, Alan
+        link: https://amzn.to/2xAnuXa
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01K92IBLI&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-01-23
+        loaned: N/A
+        library-location: HD9715.A2 G63   
+
+      - title: Lighting Design - Principles, Implementation, Case Studies (Detail Practice) 
+        author: Brandi, Ulrike
+        link: https://amzn.to/2UXLCLp
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3764374934&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-01-19
+        loaned: N/A
+        library-location: NK2115.5.L5 L54   
+
+      - title: Climate and Architecture
+        author: Dahl, Torben
+        link: https://amzn.to/2JpKRVL
         image: /assets/img/book.jfif
         description: "No description yet."
         genre: []
         subject: N/A
         ISBN-13: N/A
         ISBN-10: N/A
-        returned: N/A
+        returned: 2018-01-19
         loaned: N/A
-        library-location: N/A                                            
+        library-location: NA2541 .D3413   
+
+      - title: Foundations of Engineering Geology 
+        author: Waltham, Tony
+        link: https://amzn.to/3dEOS6T
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0415469600&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-09-11
+        loaned: N/A
+        library-location: TA705 .W357 2002  
+
+      - title: Basic Soil Mechanics
+        author: Whitlow, R.
+        link: https://amzn.to/2JpL4bv
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0582381096&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: 978-0582381094
+        ISBN-10: 0582381096
+        returned: 2018-09-11
+        loaned: N/A
+        library-location: TA710 .W46 2001   
+
+      - title: Elements of Soil Mechanics for Civil and Mining Engineers
+        author: Smith, G.N.
+        link: https://amzn.to/2Uqb6lc
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0258969482&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: 978-0258969489
+        ISBN-10: 0258969482
+        returned: 2018-09-11
+        loaned: N/A
+        library-location: TA710 .S6 1998   
+
+      - title: Soil Mechanics - Principles and Practice
+        author: Barnes, Graham
+        link: https://amzn.to/2UJKj2f
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=033377776X&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: 978-0333777763
+        ISBN-10: 033377776X
+        returned: 2018-09-11
+        loaned: N/A
+        library-location: TA710 .B37 2010   
+
+      - title: Solving problems in soil mechanics
+        author: Sutton, B.H.C.
+        link: https://amzn.to/2QWamCt
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0582089719&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: 978-0582089716
+        ISBN-10: 0582089719
+        returned: 2018-09-11
+        loaned: N/A
+        library-location: TA710 .S9 1993  
+
+      - title: Bridgescape; The Art of Designing Bridges
+        author: Gottemoeller, Frederick
+        link: https://amzn.to/3bxDQ1i
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0471292966&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-11-19
+        loaned: N/A
+        library-location: TG300 .G675 2004  
+
+      - title: Bridge Builders
+        author: Pearce, Martin
+        link: https://amzn.to/3bAxDSo
+        image: //ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=047149786X&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=stphnbrg-21&language=en_GB
+        description: "No description yet."
+        genre: []
+        subject: N/A
+        ISBN-13: N/A
+        ISBN-10: N/A
+        returned: 2018-11-19
+        loaned: N/A
+        library-location: TG300 .P43                                                     
 
   - year: 2017
     books:
