@@ -6,7 +6,7 @@ permalink: /about
 
  ![Me](/assets/img/home.jpg)
 
-I am a Maltese structural engineering student living in Malta. I currently pursue an M.Eng in Structural Engineering at the University of Malta.
+I am currently pursuing an M.Eng in Structural Engineering at the University of Malta.
 
 I have a particular interest in parametric architecture and the integration of organic forms. In the past 5 years I have worked along side reputable architects and engineers which has given me experience and know-how in vast aspects of civil engineering.
 
