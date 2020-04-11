@@ -22,8 +22,8 @@ title: Stephan Borg
 email: me@stephanb.org
 description: >- # this means to ignore newlines until "baseurl:"
   Stephan Borg is a postgraduate student at University of Malta reading for an M.Eng in Structural Engineering. 
-baseurl: "ste_borg" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://stephanb.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stphnbrg
 github_username:  stephanb-org
 collections:
